@@ -1,7 +1,7 @@
 <template>
-<div class=myfooter>
+<footer>
     <p> © Todos los derechos reservados  - Las Maravillas Secret Lodge - 2020 </p>
-    </div>  
+    </footer>  
 </template>
 
 
@@ -9,17 +9,18 @@
 
 </script>
 
-
-
 <style scoped>
 
-.myfooter{
-
-background-color: black;
-
-
+p{
+color: white;
 
 }
 
+footer {
+  
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
 
 </style>
