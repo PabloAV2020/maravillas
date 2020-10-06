@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import Home from './components/Home.vue'
-import footer from './components/footer.vue'
+import Home from './views/Home.vue'
+import footer from './views/footer.vue'
 
 export default {
   name: 'App',
