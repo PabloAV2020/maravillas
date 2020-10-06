@@ -1,6 +1,6 @@
 <template>
- 
-  <Home msg="Welcome to Your Vue.js App"/>
+   <webapp-header />    
+  <Home msg="¡Bienvenido a nuestra página!"/>
   <div>
     <webapp-footer />
     </div>
@@ -9,12 +9,15 @@
 <script>
 import Home from './views/Home.vue'
 import footer from './views/footer.vue'
+import header from './views/header'
 
 export default {
   name: 'App',
   components: {
   Home,
+    'webapp-header':header,
     'webapp-footer':footer,
+
   }
 }
 </script>
