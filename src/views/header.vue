@@ -24,7 +24,6 @@
             </div>
         </div>
       </div>
-
 </template>
 
 <script>
@@ -52,7 +51,7 @@
 
 .menu-text{
   margin-top:30px;
-  font-size: 20px;
+  font-size: 18px;
   color: white;
   font-weight: bold;
   cursor: pointer;

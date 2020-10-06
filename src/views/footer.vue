@@ -13,6 +13,8 @@
 
 p{
 color: white;
+font-size: 9pt;
+font-weight: bolder;
 
 }
 

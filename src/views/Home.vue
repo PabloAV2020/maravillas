@@ -4,7 +4,7 @@
   </div>
   <div class="bienvenida">
     <h2>
-      ! Bienvenido a nuestra página !
+      ! Bienvenido a la Patagonia !
       </h2>
     <h3>
        Te esperamos en el sur del sur, la hermosa e indomable Patagonia, lugar lleno de maravillas de la naturaleza. 
