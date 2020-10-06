@@ -7,7 +7,8 @@
       ! Bienvenido a la Patagonia !
       </h2>
     <h3>
-       Te esperamos en el sur del sur, la hermosa e indomable Patagonia, lugar lleno de maravillas de la naturaleza. 
+       Te esperamos en el sur del sur, la hermosa e indomable Patagonia, lugar lleno de maravillas de la naturaleza.
+       Ya me dio paja la wea!  
     </h3>
       </div>
 
